@@ -1,1 +1,2 @@
 embed_documents查列表 embed_query查单个
+调本地模型时候 别开梯子！！！
